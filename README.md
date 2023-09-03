@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="" width="200"/>
+  <img src="https://github.com/theDikshaSaxena/theDikshaSaxena/blob/main/dikshabitmoji.png" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **diksha.saxena2911@gmail.com**
 
-- Well my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? You can find my resume at - <a href="https://github.com/dhvani-k/resume/blob/main/Dhvani_Kothari_Resume.pdf" target="_blank">Resume</a>
+- Well my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? You can find my resume at - <a href="" target="_blank">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
