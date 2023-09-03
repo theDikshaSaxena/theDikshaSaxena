@@ -25,9 +25,9 @@
 
 - ⚡ Fun fact 
 
-- 📫 How to reach me **diksha.saxena2911@gmail.com**
+- 📫 Reach me at **diksha.saxena2911@gmail.com**
 
-- - <a href="https://github.com/theDikshaSaxena/theDikshaSaxena/blob/main/DikshaSaxena_resume_fulltime2023_v3.pdf" target="_blank">Resume</a>
+- Please take a moment to review my professional resume. It's a comprehensive snapshot of my qualifications, experience, and expertise. - <a href="https://github.com/theDikshaSaxena/theDikshaSaxena/blob/main/DikshaSaxena_resume_fulltime2023_v3.pdf" target="_blank">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
