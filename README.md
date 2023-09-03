@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **diksha.saxena2911@gmail.com**
 
-- Well my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? You can find my resume at - <a href="" target="_blank">Resume</a>
+- - <a href="https://github.com/theDikshaSaxena/theDikshaSaxena/blob/main/DikshaSaxena_resume_fulltime2023_v3.pdf" target="_blank">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
