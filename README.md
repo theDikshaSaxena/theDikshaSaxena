@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Conversational AI and Gen AI**
 
-- 💬 Ask me about **Data Engineering, Natural Langugae Processing, Full Stack Development, Generative AI**
+- 💬 Ask me about **Data Engineering, Natural Language Processing, Full Stack Development, Generative AI**
 
 - ⚡ Fun Fact: I'm a **national level Taek-Won-Dow Practitioner for India**
 
