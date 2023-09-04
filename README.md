@@ -41,17 +41,17 @@ Here's a glimpse into my world of coding and creation:
    - 🌌 *Description*: Developed a Chatbot to handle Topical and Chitchat Queries. Built an NN sequential model-based classifier to differentiate between use case. Added a Dialog Manager to record history, filter and format responses and maintain context. Incorporated
 BERT to get most relevant response. Carried out Text Pre-Processing and Prepared Dataset using Python on Reddit-QA-corpus, BYU-PCCL (CC), ED and calculated BERT, BLEU, ROUGE, and BLEURT scores to evaluate accuracy of model. Topical: Indexed questions and responses in Apache Solr and generated queries based on users’ questions. Chitchat: Formulated a creative approach to categorize users based on a psychological Sigmund Freud Evaluation to incorporate empathy. Self-built an Augmented Dataset for user types and trained GPT2 model to generate responses.Implemented backend in Python and used Flask as a web framework. Deployed the App on Digital Ocean Ubuntu droplet.
    - 🧭 *Tech Stack*: Python, Flask, TensorFlow
-   - 🔗 *GitHub Link*: [GitHub Repo](https://github.com/yourusername/project1)
+   - 🔗 *GitHub Link*: [GitHub Repo](https://github.com/theDikshaSaxena/ChatBot)
 
 2. 🤖 **Trading in Fractionalized Realty**
    - 🗨️ *Description*: Developed a DApp to tokenize fractionalized real estate and built a trade exchange expecting to increase involvement of masses by 200% in real estate trading.Coded a full-stack decentralized application (DApp) implementing backend in Node.JS, frontend in JavaScript, and writing smart contracts in Solidity. Compiled and Rolled Out on Goerli Network using Truffle and Infura. Integrated Metamask for user authorization and transaction signing and OpenZeppelin for NFT minting and transfer functionality.
    - 🧠 *Tech Stack*: Solidity, JavaScript
-   - 🔗 *GitHub Link*: [GitHub Repo](https://github.com/yourusername/project2)
+   - 🔗 *GitHub Link*: [GitHub Repo](https://github.com/theDikshaSaxena/Cryproperty)
 
 3. 🌐 **Mountain Camp Website (Yelp Camp)**
    - 🖼️ *Description*: Engineered a web application to add, rate and review different campgrounds using Node.js and Express.js for backend, HTML,CSS, JavaScript for UI and MongoDB for database. Created REST APIs to exchange information between backend and frontend.Incorporated Passport.js for authentication, limit number of reviews and prevent unverified comments.Leveraged Cloudinary to fetch media from cloud, reducing loading time of website and database cost by more than 40%.Tested the APIs in Postman and deployed it on AWS EC2 Instance. Employed Docker to containerize it and Kubernetes to manage application.
    - 🛠️ *Tech Stack*: HTML5, CSS3, NodeJS
-   - 🔗 *GitHub Link*: [GitHub Repo](https://github.com/yourusername/project3)
+   - 🔗 *GitHub Link*: [GitHub Repo](https://github.com/theDikshaSaxena/MountainCamp)
 
 👀 Explore these projects to see my coding adventures in action! Stay tuned for more code and creativity.
 
