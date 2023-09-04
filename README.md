@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://github.com/theDikshaSaxena/theDikshaSaxena/blob/main/dikshabitmoji.png" width="200"/>
 </div>
@@ -23,9 +22,11 @@
 
 - 💬 Ask me about **Data Engineering, Natural Langugae Processing, Full Stack Development, Generative AI**
 
-- ⚡ Fun fact 
+- ⚡ Fun Fact: 
 
 - 📫 Reach me at **diksha.saxena2911@gmail.com**
+  
+- 🗓️ Schedule a meeting with me: [Calendly](https://calendly.com/diksha-saxena2911)
 
 - Please take a moment to review my professional resume. It's a comprehensive snapshot of my qualifications, experience, and expertise. - <a href="https://github.com/theDikshaSaxena/theDikshaSaxena/blob/main/DikshaSaxena_resume_fulltime2023_v3.pdf" target="_blank">Resume</a>
 
