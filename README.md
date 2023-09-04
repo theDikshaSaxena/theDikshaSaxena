@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Data Engineering, Natural Langugae Processing, Full Stack Development, Generative AI**
 
-- ⚡ Fun Fact: I'm a national level Taek-Won-Dow Practitioner for India.
+- ⚡ Fun Fact: I'm a **national level Taek-Won-Dow Practitioner for India**
 
 - 📫 Reach me at **diksha.saxena2911@gmail.com**
   
